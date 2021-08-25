@@ -23,3 +23,5 @@ I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap)
 If you have any idea to make it more interesting, feel free to send a PR, or create an issue for a feature request.
 
 Stay happy and keep the people you care about happy. :)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
